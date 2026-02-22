@@ -107,8 +107,8 @@ Exposure to SDLC, debugging, and software engineering practices.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdeekshitha184-ship-it&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdeekshitha184-ship-it&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rdeekshitha184-ship-it&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdeekshitha184-ship-it&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
 ---
